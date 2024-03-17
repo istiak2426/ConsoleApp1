@@ -6,7 +6,7 @@ namespace MyApplication
     {
         static void MyMethod()
         {
-            Console.WriteLine("I just got executed again 2!");
+            Console.WriteLine("I just got executed again 2 and again!");
         }
 
         static void Main(string[] args)
